@@ -1,0 +1,1 @@
+/home/user/Desktop/exer/js/pb-data-structure-arraymethod-reduce-S-Rabi/index.js
